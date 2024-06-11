@@ -1,3 +1,7 @@
+# Update
+For ubuntu, run `sudo apt-get install libboost-all-dev` before installing
+
+
 # velocyto.R
 RNA velocity estimation in R
 
